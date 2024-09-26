@@ -1,4 +1,5 @@
 import pytest
+from selenium.webdriver.common.by import By
 
 from TestData.HomePageData import HomePageData
 from pageObjects.HomePage import HomePage
